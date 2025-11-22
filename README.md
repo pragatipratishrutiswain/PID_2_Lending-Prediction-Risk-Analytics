@@ -2,36 +2,36 @@
 
 ## 📌 Full-stack Financial Lending Analytics | Default Risk Modeling | Power BI Dashboards | Banking Sector
 
-📖 Table of Contents
+## 📖 Table of Contents
 
-  🔍 Project Overview
+🔍 Project Overview
   
-  🧩 Business Objectives
+🧩 Business Objectives
   
-  📊 KPIs Tracked
+📊 KPIs Tracked
   
-  🗂️ Dataset Details
+🗂️ Dataset Details
   
-  🏛️ System Architecture
+🏛️ System Architecture
   
-  🧪 Data Processing & Feature Engineering
+🧪 Data Processing & Feature Engineering
   
-  🤖 Machine Learning Models
+🤖 Machine Learning Models
   
-  📈 Results & Insights
+📈 Results & Insights
   
-  📊 Power BI Dashboards
+📊 Power BI Dashboards
   
-  📁 Repository Structure
+📁 Repository Structure
   
-  🚀 How to Run
+🚀 How to Run
   
-  🔮 Future Enhancements
+🔮 Future Enhancements
   
-  👤 Author
+👤 Author
 
-***
-🔍 1️⃣ Project Overview
+
+## 🔍 1️⃣ Project Overview
 
 This project focuses on end-to-end lending analytics — enabling financial institutions to improve loan approval decisions and manage credit risk effectively.
 It combines:
@@ -41,9 +41,9 @@ It combines:
 ✔ MTD & MoM financial performance analysis
 ✔ Business dashboards for leadership decisions
 
-***
 
-🧩 2️⃣ Business Objectives
+
+## 🧩 2️⃣ Business Objectives
 
 Predict Loan Approval likelihood
 
@@ -57,9 +57,8 @@ Enhance credit policy decisions with analytics
 
 Improve lending portfolio health and operational efficiency
 
-***
 
-📊 3️⃣ KPIs Tracked
+## 📊 3️⃣ KPIs Tracked
 Metric	Description	Trend
 Total Loan Applications	MTD count and MoM comparison	Volume & demand
 Total Funded Amount	Approved loan disbursement trends	Capital allocation
@@ -67,14 +66,13 @@ Total Amount Received	Cash inflow from repayments	Liquidity & recovery
 Average Interest Rate	Overall pricing health	Revenue generation
 Avg. Debt-to-Income Ratio	Applicant financial risk level	Creditworthiness
 
-***
 
-🗂️ 4️⃣ Dataset Details
+## 🗂️ 4️⃣ Dataset Details
 
 Source: Synthetic internal-style Banking Dataset
 Records: Loan applicants with repayment outcomes
 
-Key Fields
+### Key Fields
 
 id, address_state, application_type, emp_length, emp_title,
 grade, sub_grade, home_ownership, annual_income, dti,
