@@ -81,19 +81,24 @@ Records: Loan applicants with repayment outcomes
 3. application_type
 4. emp_length
 5. emp_title
-6. grade, sub_grade
-7. home_ownership
-8. annual_income
-9. dti (debt to interest ratio)
-10. issue_date
-11. last_payment_date
-12. last_credit_pull_date
-13. loan_status
-14. purpose
-15. term
-16. int_rate
-17. installment
-18. loan_amount
-19. total_acc
-20. total_payment
-21. verification_status
+6. grade
+7. sub_grade
+8. home_ownership
+9. annual_income
+10. dti (debt to interest ratio)
+11. issue_date
+12. last_payment_date
+13. last_credit_pull_date
+14. loan_status
+15. purpose
+16. term
+17. int_rate
+18. installment
+19. loan_amount
+20. total_acc
+21. total_payment
+22. verification_status
+
+id	address_state	application_type	emp_length	emp_title	grade	home_ownership	issue_date	last_credit_pull_date	last_payment_date	loan_status	next_payment_date	member_id	purpose	sub_grade	term	verification_status	annual_income	dti	installment	int_rate	loan_amount	total_acc	total_payment
+<img width="4412" height="33" alt="image" src="https://github.com/user-attachments/assets/4edcd85b-85e1-424e-93cb-da482761f59a" />
+
