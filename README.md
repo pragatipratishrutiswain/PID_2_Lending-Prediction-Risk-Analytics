@@ -31,7 +31,7 @@
 👤 Author
 
 
-## 🔍 1️⃣ Project Overview
+## 🔍 Project Overview
 
 This project focuses on end-to-end lending analytics — enabling financial institutions to improve loan approval decisions and manage credit risk effectively.
 It combines:
@@ -43,7 +43,7 @@ It combines:
 
 
 
-## 🧩 2️⃣ Business Objectives
+## 🧩 Business Objectives
 
 Predict Loan Approval likelihood
 
@@ -58,7 +58,7 @@ Enhance credit policy decisions with analytics
 Improve lending portfolio health and operational efficiency
 
 
-## 📊 3️⃣ KPIs Tracked
+## 📊 KPIs Tracked
 Metric	Description	Trend
 Total Loan Applications	MTD count and MoM comparison	Volume & demand
 Total Funded Amount	Approved loan disbursement trends	Capital allocation
@@ -67,7 +67,7 @@ Average Interest Rate	Overall pricing health	Revenue generation
 Avg. Debt-to-Income Ratio	Applicant financial risk level	Creditworthiness
 
 
-## 🗂️ 4️⃣ Dataset Details
+## 🗂️ Dataset Details
 
 Source: Synthetic internal-style Banking Dataset
 Records: Loan applicants with repayment outcomes
