@@ -100,5 +100,5 @@ Records: Loan applicants with repayment outcomes
 22. verification_status
 
 id	address_state	application_type	emp_length	emp_title	grade	home_ownership	issue_date	last_credit_pull_date	last_payment_date	loan_status	next_payment_date	member_id	purpose	sub_grade	term	verification_status	annual_income	dti	installment	int_rate	loan_amount	total_acc	total_payment
-<img width="4412" height="33" alt="image" src="https://github.com/user-attachments/assets/4edcd85b-85e1-424e-93cb-da482761f59a" />
+<img width="4412" height="70" alt="image" src="https://github.com/user-attachments/assets/4edcd85b-85e1-424e-93cb-da482761f59a" />
 
