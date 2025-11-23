@@ -65,18 +65,18 @@ associated with different loan statuses.
 
 - By providing insights into metrics such as
   
-- - Total Loan Applications
+  - Total Loan Applications
 
-- - Total Funded Amount
+  - Total Funded Amount
 
-- - Total Amount Received
+  - Total Amount Received
 
-- - Month-to-Date (MTD) Funded Amount
+  - Month-to-Date (MTD) Funded Amount
 
-- - MTD Amount Received
+  - MTD Amount Received
 
-- - Average Interest Rate
+  - Average Interest Rate
 
-- - Average Debt-to-Income Ratio (DTI)
+  - Average Debt-to-Income Ratio (DTI)
   
   this grid view will empower us to make data-driven decisions and assess the health of our loan portfolio.
