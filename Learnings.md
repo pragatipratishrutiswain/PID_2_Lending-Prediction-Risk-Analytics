@@ -1,6 +1,6 @@
 ## 1. Define hierarhy structure in PostgreSQL.
 
-In PostgreSQL, the hierarchy is server (or cluster) -> database -> schema -> table. A server manages databases, databases contain schemas, and schemas organize tables and other objects. 
+In PostgreSQL, the hierarchy is server (or cluster) → database → schema → table. A server manages databases, databases contain schemas, and schemas organize tables and other objects. 
 
 ## 2. How to import the CSV to PostgreSQL workbench?
 
