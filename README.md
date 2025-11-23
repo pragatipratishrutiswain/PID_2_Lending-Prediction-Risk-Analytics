@@ -94,7 +94,7 @@ Records: Loan applicants with repayment outcomes
 16. term
 17. verification_status
 18. annual_income
-19. dti
+19. dti (debt to interest ratio)
 20. installment
 21. int_rate
 22. loan_amount
