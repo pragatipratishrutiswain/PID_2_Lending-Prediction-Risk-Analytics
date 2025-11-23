@@ -101,4 +101,9 @@ Records: Loan applicants with repayment outcomes
 23. total_acc
 24. total_payment
 
+## 🏛️ System Architecture
+
+Excel Source → SQL Validation → Python (Colab) → EDA & ML → Power BI → Dashboards
+
+
 
