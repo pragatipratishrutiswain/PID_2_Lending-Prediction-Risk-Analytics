@@ -1,4 +1,4 @@
-## How to import the CSV to PostgreSQL workbench?
+## 1. How to import the CSV to PostgreSQL workbench?
 
 | Method                 | Tool/Command               | Requires Table                 | Works With Local File? | Superuser Required? | Best For                    |
 | ---------------------- | -------------------------- | ------------------------------ | ---------------------- | ------------------- | --------------------------- |
